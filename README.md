@@ -8,8 +8,10 @@ A merchant project created in flutter. Merchant supports both Android and IOS, c
 
 This repostry considring to use NPG(Lightbox) inside your flutter application.
 Follow this document to start working with lightbox in your app. 
--[What is Lightbox](https://docs.moamalat.net/lightbox.html)
--[What is NPG](https://docs.moamalat.net/)
+
+-[What is Lightbox?](https://docs.moamalat.net/lightbox.html)
+
+-[What is NPG?](https://docs.moamalat.net/)
 
 
 
